@@ -431,16 +431,6 @@ footer p {
   text-align: center;
 }
 
-.details-container h3 {
-  margin-bottom: 0.5rem;
-}
-
-#about .details-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-#about .details-container p {
-  margin: auto 0;
+#about .details-container:first-child p {
+  margin-top: 1rem;
 }
