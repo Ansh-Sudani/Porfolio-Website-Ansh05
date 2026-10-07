@@ -431,3 +431,7 @@ footer p {
   text-align: center;
 }
 
+.article-container article {
+  justify-content: flex-start;
+  gap: 1rem;
+}
